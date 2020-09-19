@@ -1,3 +1,3 @@
 # Currency-NER-Spacy
 
-                     ![GitHub Logo](/images/Currency.gif)
+   ![GitHub Logo](/images/Currency.gif)
