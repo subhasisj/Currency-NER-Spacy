@@ -1,4 +1,4 @@
 # Currency-NER-Spacy
-<center
+<center>
 ![GitHub Logo](/images/Currency.gif)
 </center?
